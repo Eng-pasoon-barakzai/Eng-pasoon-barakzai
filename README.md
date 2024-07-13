@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eng-pasoon-barakzai
+- 👋 Hi, I’m pasoon-barakzai
 - 👀 I’m interested in learning new skils and reading books  
 - 🌱 I’m currently learning Angular and i am also student of computer science software department
 - 💞️ I’m looking to collaborate on your new p
